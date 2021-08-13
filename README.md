@@ -22,6 +22,12 @@ TODO：
 
 - [] Makefile 修改扩充
 
+## 依赖
+
+本程序依赖于`cchardet`包，可通过`pip install cchardet`来安装。
+
+（当然，Python3也是一定要装的。）
+
 ## 安装
 
 只需执行以下命令即可。
